@@ -56,5 +56,12 @@ SMEs Export of Goods and Services  | Department of Statistics Malaysia (DOSM)
 SME Total GDP | Department of Statistics Malaysia (DOSM)
 SME with Digitalization | SME Corporation Berhad
 
+### Causal Loop Diagram ###
+<img src="https://github.com/nurfathihah/ResearchLogbook/blob/main/Causal%20Loop%20Diagram.jpg" width="1200" height="400"  />
+
+### Stock and Flow Diagram ###
+<img src="https://github.com/nurfathihah/ResearchLogbook/blob/main/Stock%20and%20Flow%20Diagram.jpg" width="1200" height="400"  />
+
+
 ## Analysis and Finding
 
