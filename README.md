@@ -69,5 +69,11 @@ SME with Digitalization | SME Corporation Berhad
 <img src="https://github.com/nurfathihah/ResearchLogbook/blob/main/Stock%20and%20Flow%20Diagram.jpg" width="1200" height="400"  />
 
 
-## Analysis and Finding
+## Analysis and Finding ##
+
+### Behaviour Validation ###
+
+### Intervention 1 ###
+
+### Intervention 2 ###
 
