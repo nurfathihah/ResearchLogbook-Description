@@ -72,8 +72,17 @@ SME with Digitalization | SME Corporation Berhad
 ## Analysis and Finding ##
 
 ### Behaviour Validation ###
+<img src="https://github.com/nurfathihah/ResearchLogbook-Description/blob/main/Behaviour%20Validation.jpg" width="600" height="300"  />
+The trend is just very same to each other. Hence, the model is validated as it is able to show the expected behaviour of simulated data at the very right trend.
 
-### Intervention 1 ###
+### Intervention 1: Digitalization Awareness and Technology Advancement Adoption ###
+<img src="https://github.com/nurfathihah/ResearchLogbook-Description/blob/main/Intervention%201.jpg" width="800" height="600"  />
+For the first intervention, involving changes in two variables simultaneously, which are digitalization awareness and technology advancement adoption. For digitalization awareness, we increase the value by 10%, while for technology advancement, adoption increases by 0.5%.
 
-### Intervention 2 ###
+### Intervention 2: Digitalization Awareness, Government Incentives and Training Program ###
+<img src="https://github.com/nurfathihah/ResearchLogbook-Description/blob/main/Intervention%202.jpg" width="800" height="600"  />
+For the second intervention, involving changes in three variables simultaneously—digitalization awareness, government incentives, and training programs— For digitalization awareness, we increase the value by 10%, for the government incentive by 20%, and for the last variable, which is the training program, we increase it by 5% from the base model.
 
+### Conclusion and Future Research ###
+Through the implementation of this study, we were able to develop a system dynamics model for analyzing SME digitalization in Malaysia. The positive outcome from the
+development of this model is suggested by the findings, which suggest the implementation of Intervention 2 which is to hold digitalization awareness, Government Incentives and Training Program simultaneously. However, for future research, to increase the accuracy of this model, it should be run for a longer period of time in order to observe the behaviour of the model, as well as adding more variables in terms of the number of SME and business performance factors. Lastly, real projects should be implemented for future studies to measure the effectiveness of this model.
